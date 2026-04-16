@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelYazie&theme=dracula)](https://github.com/SamuelYazie/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelYazie&theme=gotham)](https://github.com/SamuelYazie/github-readme-activity-graph)
 <!--
 **SamuelYazie/SamuelYazie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
